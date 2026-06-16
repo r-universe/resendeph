@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/resendeph/resendeph.r-universe.dev
 	branch = HEAD
-[submodule "mpaR"]
-	path = mpaR
+[submodule "mpa"]
+	path = mpa
 	url = https://github.com/resendeph/mpaR
