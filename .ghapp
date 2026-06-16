@@ -1,0 +1,10 @@
+{
+  "id": 140725569,
+  "created_at": "2026-06-16T18:02:12.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["mpaR", "resendeph.r-universe.dev"]
+}
